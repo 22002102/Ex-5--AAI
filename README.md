@@ -45,7 +45,7 @@ P0 = np.diag([1, 1])
 <br>
 <H3>Output:</H3>
 
-![image](https://github.com/22002102/Ex-5--AAI/assets/119091638/784add88-607c-4892-b68d-4674b6660e3b)
+<img src="https://github.com/22002102/Ex-5--AAI/assets/119091638/784add88-607c-4892-b68d-4674b6660e3b" width=500 height=450>
 
 <H3>Results:</H3>
 
